@@ -10,3 +10,10 @@ body {
     background-image: url("../ignasi_pattern_s.png");
 }
 
+/*Change Container*/
+.container {
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 70%;
+}
