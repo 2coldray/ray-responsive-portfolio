@@ -5,15 +5,20 @@
     font-weight: bold;
 }
 
+.text-green {
+    color: mediumseagreen;
+}
+
 /*Set background image*/
 body {
     background-image: url("../ignasi_pattern_s.png");
 }
 
-/*Change Container*/
-.container {
-    background-color: white;
-    margin-top: 20px;
+.border-green {
+    border-color: mediumseagreen !important;
+    border-width: 2px;
 }
+
+/*Change Container*/
 
 
