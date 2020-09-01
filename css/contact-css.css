@@ -10,6 +10,14 @@ body {
     background-image: url("../ignasi_pattern_s.png");
 }
 
+/*Change color of Contact*/
 .text-green {
     color: mediumseagreen;
+}
+
+/*Change button color*/
+.btn-success {
+    color: #fff;
+    background-color: mediumseagreen;
+    border-color: mediumseagreen;
 }
