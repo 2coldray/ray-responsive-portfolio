@@ -21,3 +21,8 @@ body {
     background-color: mediumseagreen;
     border-color: mediumseagreen;
 }
+
+.border-green {
+    border-color: mediumseagreen !important;
+    border-width: 2px;
+}
