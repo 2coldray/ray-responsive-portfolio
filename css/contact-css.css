@@ -22,6 +22,7 @@ body {
     border-color: mediumseagreen;
 }
 
+/*Make border color green on the footer*/
 .border-green {
     border-color: mediumseagreen !important;
     border-width: 2px;

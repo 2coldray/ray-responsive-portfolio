@@ -10,10 +10,12 @@ body {
     background-image: url("../ignasi_pattern_s.png");
 }
 
+/*Make portfolio color teal color*/
 .text-teal {
     color: mediumturquoise;
 }
 
+/*Make border color on footer green*/
 .border-green {
     border-color: mediumseagreen !important;
     border-width: 2px;
