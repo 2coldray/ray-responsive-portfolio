@@ -1,4 +1,6 @@
-h1 {
-    background-color: mediumturquoise;
-    color: mediumvioletred;
+/*Edit Navbar Name*/
+.navbar-brand {
+    background-color: mediumseagreen;
+    color: white !important;
+    font-weight: bold;
 }
