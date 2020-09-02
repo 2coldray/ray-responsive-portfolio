@@ -17,7 +17,7 @@ The purpose of the assignment was to create a responsive portfolio web applicati
 
 1. To access, the code repository, go to this website: https://github.com/2coldray/ray-responsive-portfolio .
 
-2. To view the web application go to this website: https://2coldray.github.io/ray-responsive-portfolio/index.html
+2. To view the web application go to this website: https://2coldray.github.io/ray-responsive-portfolio/ .
 
 3. Click the different words in the NavBar; About, Portfolio, and Contact, to explore the different pages.
 
